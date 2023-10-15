@@ -79,7 +79,6 @@ namespace WowServer.Server
                 }
                 else
                 {
-                    MessageBox.Show("链接成功");
                     break; // 连接成功，跳出循环
                 }
             }
